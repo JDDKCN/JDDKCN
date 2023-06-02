@@ -46,6 +46,16 @@ Github Stats
  <img src="https://github-contribution-stats.vercel.app/api/?username=JDDKCN" align="center" alt="Stats" />
 </p>
 
+<!--
+Current Streak
+-->
+<p align="center">
+ <h2 align="center">
+ </h2>
+ <p align="center">
+  Current Streak
+ </p>
+</p>
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=JDDKCN" align="center" alt="Github Readme Streak Stats" />
 </p>
